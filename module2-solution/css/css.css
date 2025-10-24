@@ -21,8 +21,8 @@ h2 {
     width: 33.333%;
     margin: 0 0 20px 0;
     float: right;
-    border-left: 1px black solid;
-    border-bottom: 1px black solid;
+    border-left: 3px black solid;
+    border-bottom: 3px black solid;
 }
 
 p {
@@ -45,14 +45,17 @@ p {
 
 div {
     width: 33.333%;
-    padding: 0 20px 0 20px;
+    padding: 0 0 0 20px;
     float: left;
     margin: 10px 0 10px 0;
+}
+div:last-child {
+    padding: 0 20px 0 0;
 }
 
 section {
     background-color: darkseagreen;
-    border: 1px solid black;
+    border: 3px solid black;
 }
 
 /* FULL */
