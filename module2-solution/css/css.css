@@ -21,8 +21,8 @@ h2 {
     width: 150px;
     margin: 0 0 20px 0;
     float: right;
-    border-left: 3px black solid;
-    border-bottom: 3px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
 }
 
 p {
@@ -55,7 +55,7 @@ div:last-child {
 
 section {
     background-color: darkseagreen;
-    border: 3px solid black;
+    border: 1px solid black;
 }
 
 /* FULL */
