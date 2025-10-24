@@ -9,6 +9,14 @@ body {
   margin: 30px;
 }
 
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
 /* FULL */
 @media screen (min-width: 992px) {
     
