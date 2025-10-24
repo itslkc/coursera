@@ -15,6 +15,19 @@ h1 {
 
 h2 {
     font-size: 2em;
+    float: right;
+}
+.chicken h2 {
+    background-color: pink;
+    color: black;
+}
+.beef h2 {
+    background-color: darkred;
+    color: white;
+}
+.sushi h2 {
+    background-color: burlywood;
+    color: black;
 }
 
 /* FULL */
