@@ -21,6 +21,11 @@ h2 {
     margin: 0;
     float: right;
 }
+
+p {
+    clear: both;
+}
+
 .Chicken h2 {
     background-color: pink;
     color: black;
@@ -38,6 +43,7 @@ section {
     width: 33.333%;
     background-color: darkseagreen;
     border: 1px solid black;
+    float: left;
 }
 
 /* FULL */
