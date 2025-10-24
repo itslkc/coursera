@@ -18,7 +18,8 @@ h2 {
     font-size: 1.25em;
     text-align: center;
     width: 33.333%;
-    margin-top: 0;
+    margin: 0;
+    float: right;
 }
 .Chicken h2 {
     background-color: pink;
