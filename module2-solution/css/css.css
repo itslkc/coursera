@@ -9,14 +9,17 @@ body {
   margin: 30px;
 }
 
+/* FULL */
 @media screen (min-width: 992px) {
     
 }
 
+/* MID */
 @media screen (min-width: 768px) and (max-width: 991px) {
     
 }
 
+/* SMALL */
 @media screen (max-width: 767px) {
     
 }
