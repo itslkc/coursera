@@ -18,6 +18,7 @@ h2 {
     font-size: 1.25em;
     text-align: center;
     width: 33.333%;
+    margin-top: 0;
 }
 .Chicken h2 {
     background-color: pink;
@@ -34,7 +35,6 @@ h2 {
 
 section {
     width: 33.333%;
-    float: left;
     background-color: darkseagreen;
     border: 1px solid black;
 }
@@ -54,7 +54,7 @@ section {
     }
 }
 
-/* SMALL -*/
+/* SMALL */
 @media (max-width: 767px) {
     section {
         width: 100%;
