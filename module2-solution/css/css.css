@@ -41,7 +41,7 @@ p {
 }
 
 section {
-    width: 33.333%;
+    width: calc(33.333% - 20px);
     background-color: darkseagreen;
     border: 1px solid black;
     float: left;
