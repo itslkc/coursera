@@ -21,6 +21,8 @@ h2 {
     width: 33.333%;
     margin: 0 0 20px 0;
     float: right;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
 }
 
 p {
