@@ -80,5 +80,6 @@ section {
 @media (max-width: 767px) {
     div {
         width: 100%;
+        padding: 0 20px 0 20px;
     }
 }
