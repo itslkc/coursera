@@ -18,12 +18,13 @@ h2 {
     font-size: 1.25em;
     text-align: center;
     width: 33.333%;
-    margin: 0;
+    margin: 0 0 20px 0;
     float: right;
 }
 
 p {
     clear: both;
+    margin: 20px;
 }
 
 .Chicken h2 {
@@ -44,6 +45,7 @@ section {
     background-color: darkseagreen;
     border: 1px solid black;
     float: left;
+    padding: 20px;
 }
 
 /* FULL */
@@ -56,7 +58,7 @@ section {
     section {
         width: 50%;
     }
-    .sushi {
+    section.Sushi {
         width: 100%;
     }
 }
