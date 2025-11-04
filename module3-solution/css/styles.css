@@ -3,6 +3,6 @@ nav#header-nav {
     color: white;
 }
 
-a.navbar-brand {
+nav#header-nav a.navbar-brand {
     color: white;
 }
