@@ -14,3 +14,7 @@ nav#header-nav a.navbar-brand {
     color: black;
     text-align: center;
 }
+
+.navbar-collapse.collapse.in, .navbar-collapse.collapsing {
+    background-color: goldenrod;
+}
