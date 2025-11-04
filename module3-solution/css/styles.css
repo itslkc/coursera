@@ -6,3 +6,12 @@ nav#header-nav {
 nav#header-nav a.navbar-brand {
     color: white;
 }
+
+#collapsable-nav {
+    width: 100%;
+    background-color: goldenrod;
+}
+#collapsable-nav a {
+    color: black;
+    text-align: center;
+}
