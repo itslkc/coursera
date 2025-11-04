@@ -2,3 +2,7 @@ nav#header-nav {
     background-color: darkred;
     color: white;
 }
+
+a.navbar-brand {
+    color: white;
+}
