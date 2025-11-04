@@ -18,3 +18,17 @@ nav#header-nav a.navbar-brand {
 .navbar-collapse.collapse.in, .navbar-collapse.collapsing {
     background-color: goldenrod;
 }
+
+h2 {
+    text-align: center;
+}
+
+.menu-item {
+    margin: 15px;
+    padding: 40px;
+    background-color: plum;
+}
+
+.menu-desc {
+    font-size: 1.2em;
+}
