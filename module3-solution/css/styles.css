@@ -19,13 +19,13 @@ nav#header-nav a.navbar-brand {
     background-color: goldenrod;
 }
 
-h2 {
+h1, h2 {
     text-align: center;
 }
 
 .menu-item {
     margin: 15px;
-    padding: 40px;
+    padding: 15px 40px 15px 40px;
     background-color: plum;
 }
 
