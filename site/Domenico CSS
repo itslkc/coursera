@@ -1,0 +1,425 @@
+.elementor-kit-4 {
+  --e-global-color-primary: #000000;
+  --e-global-color-secondary: #FFFFFF;
+  --e-global-color-text: #0C211C;
+  --e-global-color-accent: #F9F2E8;
+  --e-global-color-c913768: #D9DFDB;
+  --e-global-color-6df9942: #485954;
+  --e-global-color-62cab37: #2F2F2F;
+  --e-global-typography-primary-font-family: "Tobias Light";
+  --e-global-typography-primary-font-size: 1rem;
+  --e-global-typography-primary-line-height: 1.5em;
+  --e-global-typography-primary-letter-spacing: 0.01em;
+  --e-global-typography-secondary-font-family: "FT Habit Book";
+  --e-global-typography-secondary-font-size: 1rem;
+  --e-global-typography-secondary-font-weight: 400;
+  --e-global-typography-secondary-line-height: 1.333em;
+  --e-global-typography-secondary-letter-spacing: 0.05em;
+  --e-global-typography-text-font-family: "Tobias Light";
+  --e-global-typography-text-font-size: 1rem;
+  --e-global-typography-text-line-height: 1.5em;
+  --e-global-typography-text-letter-spacing: 0.01em;
+  --e-global-typography-accent-font-family: "FT Habit Book";
+  --e-global-typography-accent-font-size: 1em;
+  --e-global-typography-accent-font-weight: 500;
+  --e-global-typography-accent-line-height: 1.333em;
+  --e-global-typography-accent-letter-spacing: 0.05em;
+  --e-global-typography-1dd64fa-font-family: "PP Editorial New Ultra Light";
+  --e-global-typography-1dd64fa-line-height: 1em;
+  --e-global-typography-1dd64fa-letter-spacing: -0.02em;
+  --e-global-typography-02799a6-font-family: "PP Editorial New Ultra Light";
+  --e-global-typography-02799a6-font-size: 3rem;
+  --e-global-typography-02799a6-line-height: 1em;
+  --e-global-typography-a2d8e92-font-family: "PP Editorial New Ultra Light";
+  --e-global-typography-a2d8e92-font-size: 2.5rem;
+  --e-global-typography-a2d8e92-line-height: 1em;
+  --e-global-typography-2342746-font-family: "Tobias Light";
+  --e-global-typography-2342746-font-size: 1.5rem;
+  --e-global-typography-2342746-line-height: 1.333em;
+  --e-global-typography-2342746-letter-spacing: 0.015em;
+  --e-global-typography-1b3c38b-font-family: "Tobias Light";
+  --e-global-typography-1b3c38b-font-size: 1.5rem;
+  --e-global-typography-1b3c38b-line-height: 1.25em;
+  --e-global-typography-1b3c38b-letter-spacing: 0.05em;
+  --e-global-typography-cf66c55-font-family: "FT Habit Book";
+  --e-global-typography-cf66c55-line-height: 1.777em;
+  --e-global-typography-60e4d25-font-family: "FT Habit Book";
+  --e-global-typography-60e4d25-font-size: 18px;
+  --e-global-typography-60e4d25-font-weight: 900;
+  --e-global-typography-60e4d25-text-transform: uppercase;
+  --e-global-typography-60e4d25-line-height: 24px;
+  --e-global-typography-60e4d25-letter-spacing: 0.05em;
+  --e-global-typography-b2920eb-font-family: "FT Habit Book";
+  --e-global-typography-b2920eb-font-size: 1.125rem;
+  --e-global-typography-b2920eb-text-transform: uppercase;
+  --e-global-typography-b2920eb-line-height: 1.333em;
+  --e-global-typography-b2920eb-letter-spacing: 0.05em;
+  --e-global-typography-f8bcfbd-font-size: 0.75rem;
+  --e-global-typography-f8bcfbd-line-height: 1.5em;
+  --e-global-typography-481e5e6-font-family: "Tobias Light";
+  --e-global-typography-481e5e6-font-size: 3rem;
+  --e-global-typography-481e5e6-line-height: 1.25em;
+  --e-global-typography-b821e5e-font-family: "Tobias Light";
+  --e-global-typography-b821e5e-font-size: 2.25rem;
+  --e-global-typography-b821e5e-line-height: 1.167em;
+  --e-global-typography-0246b86-font-family: "Tobias Light";
+  --e-global-typography-0246b86-font-size: 2rem;
+  --e-global-typography-0246b86-line-height: 1em;
+  --e-global-typography-307ca18-font-family: "PP Editorial New Ultra Light";
+  --e-global-typography-307ca18-font-size: 12.5rem;
+  --e-global-typography-307ca18-line-height: 0.8em;
+  --e-global-typography-599dc04-font-family: "Tobias Light";
+  --e-global-typography-599dc04-font-size: 1.125rem;
+  --e-global-typography-599dc04-line-height: 1.2em;
+  --e-global-typography-599dc04-letter-spacing: 0.02em;
+  --e-global-typography-4593302-font-family: "PP Editorial New Ultra Light";
+  --e-global-typography-4593302-font-size: 1.5rem;
+  --e-global-typography-4593302-line-height: 1.25em;
+  --e-global-typography-17a786d-font-family: "Tobias Light";
+  --e-global-typography-17a786d-font-size: 1.3rem;
+  --e-global-typography-17a786d-line-height: 1.333em;
+  background-color: var( --e-global-color-6df9942 );
+  color: #0C211C;
+  font-family: "Tobias Light", serif;
+  font-size: 1rem;
+  line-height: 1.5em;
+  letter-spacing: 0.01em;
+}
+
+.elementor-kit-4 button,
+.elementor-kit-4 input[type="button"],
+.elementor-kit-4 input[type="submit"],
+.elementor-kit-4 .elementor-button {
+  background-color: var( --e-global-color-6df9942 );
+  font-family: "Tobias Light", serif;
+  font-size: 1.3125rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var( --e-global-color-accent );
+  border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-kit-4 button:hover,
+.elementor-kit-4 button:focus,
+.elementor-kit-4 input[type="button"]:hover,
+.elementor-kit-4 input[type="button"]:focus,
+.elementor-kit-4 input[type="submit"]:hover,
+.elementor-kit-4 input[type="submit"]:focus,
+.elementor-kit-4 .elementor-button:hover,
+.elementor-kit-4 .elementor-button:focus {
+  background-color: var( --e-global-color-c913768 );
+  color: var( --e-global-color-text );
+}
+
+.elementor-kit-4 e-page-transition {
+  background-color: var( --e-global-color-6df9942 );
+}
+
+.elementor-kit-4 p {
+  margin-block-end: 1em;
+}
+
+.elementor-kit-4 a {
+  color: var( --e-global-color-text );
+}
+
+.elementor-kit-4 a:hover {
+  color: var( --e-global-color-text );
+}
+
+.elementor-kit-4 h1 {
+  color: var( --e-global-color-accent );
+  font-family: "PP Editorial New Ultra Light", serif;
+  font-size: clamp(3.5rem, 4vw, 5rem);
+  line-height: 1em;
+  letter-spacing: -0.02em;
+}
+
+.elementor-kit-4 h2 {
+  color: var( --e-global-color-text );
+  font-family: "PP Editorial New Ultra Light", serif;
+  font-size: 3rem;
+  line-height: 1em;
+}
+
+.elementor-kit-4 h3 {
+  color: var( --e-global-color-text );
+}
+
+.elementor-kit-4 h4 {
+  color: var( --e-global-color-text );
+}
+
+.elementor-kit-4 h5 {
+  color: var( --e-global-color-text );
+}
+
+.elementor-kit-4 h6 {
+  color: var( --e-global-color-text );
+}
+
+.elementor-section.elementor-section-boxed > .elementor-container {
+  max-width: 1200px;
+}
+
+.e-con {
+  --container-max-width: 1200px;
+  --container-default-padding-top: 0px;
+  --container-default-padding-right: 0px;
+  --container-default-padding-bottom: 0px;
+  --container-default-padding-left: 0px;
+}
+
+.elementor-widget:not(:last-child) {
+  --kit-widget-spacing: 0px;
+}
+
+.elementor-element {
+  --widgets-spacing: 0px 0px;
+  --widgets-spacing-row: 0px;
+  --widgets-spacing-column: 0px;
+}
+
+{}
+
+h1.entry-title {
+  display: var(--page-title-display);
+}
+
+.site-header .site-branding {
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.site-header {
+  padding-inline-end: 0px;
+  padding-inline-start: 0px;
+}
+
+.site-footer .site-branding {
+  flex-direction: column;
+  align-items: stretch;
+}
+
+@media (max-width: 1024px) {
+  .elementor-kit-4 {
+    --e-global-typography-481e5e6-font-size: 3.5vw;
+  }
+  .elementor-kit-4 h1 {
+    font-size: 5rem;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1024px;
+  }
+  .e-con {
+    --container-max-width: 1024px;
+  }
+}
+
+@media (max-width: 767px) {
+  .elementor-kit-4 {
+    --e-global-typography-1dd64fa-font-size: 3.5rem;
+    --e-global-typography-1dd64fa-line-height: 1em;
+    --e-global-typography-02799a6-font-size: 2rem;
+    --e-global-typography-a2d8e92-font-size: 1.5rem;
+    --e-global-typography-a2d8e92-line-height: 1em;
+    --e-global-typography-2342746-font-size: 1.2rem;
+    --e-global-typography-17a786d-font-size: 1.2rem;
+  }
+  .elementor-kit-4 h1 {
+    font-size: 2.5rem;
+  }
+  .elementor-kit-4 h2 {
+    font-size: 2rem;
+    line-height: 1em;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 767px;
+  }
+  .e-con {
+    --container-max-width: 767px;
+  }
+}
+
+/* Start custom CSS *//********** LAYOUT **********/
+
+body {
+  overflow-x: hidden;
+}
+
+/* -DESKTOP- */
+@media (min-width: 1200px) {
+    .sectioncontainsthings {
+        padding: 100px 0px 100px 0px;
+        
+    }
+}
+
+/* -TABLET- */
+@media (min-width: 768px) and (max-width: 1199px) {
+    .sectioncontainsthings {
+        padding: 50px 30px 50px 30px;
+        
+    }
+}
+
+/* -MOBILE- */
+@media (max-width: 767px) {
+    .sectioncontainsthings {
+        padding: 50px 30px 50px 30px;
+        
+    }
+}
+
+
+/***** TYPOGRAPHY *****/
+
+h1 {
+    text-align: center;
+
+}
+
+h1,h2,h3,h4,h5,h6,p {
+    text-wrap: pretty;
+    margin-block-end: 0;
+}
+
+ul {
+    padding-inline-start: 30px;
+}
+
+li {
+    margin-bottom: 1.5em;
+}
+
+/* Link Underlines */
+
+p a {
+    text-decoration: underline;
+    text-decoration-color: #0C211C;
+    color: inherit;
+}
+
+p a:hover {
+    text-decoration-color: #CA0800 !important;
+}
+
+#remove-bottom-margin p {
+    margin-block-end: 0;
+}
+
+/* Scroll to Top Margin 
+
+@media (max-width: 767px) {
+    * {
+        scroll-margin-top: 52px;
+    }
+}
+@media (max-width: 1199px) {
+    * {
+        scroll-margin-top: 56px;
+    }
+}
+@media (min-width: 1200px) {
+    * {
+        scroll-margin-top: 64px;
+    }
+}
+
+*/
+
+/* LINKS GROW on HOVER */
+#linkanimates {
+  transition: transform 300ms ease-in-out;
+}
+
+#linkanimates:hover {
+  transform: scale(1.075);
+}
+
+/* POPUP FADE FIX 
+
+.elementor-popup-modal:not([style="display: none;"]) {
+    transition: all .3s;
+    opacity: 1;
+    
+}
+
+div.elementor-popup-modal[style="display: none;"] {
+    transition: all .3s;
+    opacity: 0;
+    display: flex!important;
+    z-index: -5;
+    
+}
+
+.elementor-popup-modal[style="display: none;"]>div {
+    display:none
+    
+}
+
+.elementor-popup-modal{
+    animation:fade-in-by-marks 0.5s cubic-bezier(.39,.575,.565,1.000);
+    
+}
+
+@keyframes fade-in-by-marks{
+    0%{opacity:0}100%{opacity:1}
+    
+}
+
+*/
+
+/* End custom CSS */
+
+/* Start Custom Fonts CSS */
+@font-face {
+  font-family: 'Tobias Light';
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url('https://2025.domenicowinery.com/wp-content/uploads/Tobias-Light.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+
+/* Start Custom Fonts CSS */
+@font-face {
+  font-family: 'FT Habit Book';
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url('https://2025.domenicowinery.com/wp-content/uploads/FTHabit-Book.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+
+/* Start Custom Fonts CSS */
+@font-face {
+  font-family: 'PP Editorial New Ultra Light';
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url('https://2025.domenicowinery.com/wp-content/uploads/PPEditorialNew-Ultralight.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+
+
+.darktextCTAhover p,
+.darktextCTAhover h1,
+.darktextCTAhover h2,
+.darktextCTAhover h3,
+.darktextCTAhover h4,
+.darktextCTAhover h5,
+.darktextCTAhover h6 {
+  transition: color 300ms ease-in-out, text-decoration-color 300ms ease-in-out;
+}
+
+.darktextCTAhover:hover p,
+.darktextCTAhover:hover h1,
+.darktextCTAhover:hover h2,
+.darktextCTAhover:hover h3,
+.darktextCTAhover:hover h4,
+.darktextCTAhover:hover h5,
+.darktextCTAhover:hover h6 {
+  color: var(--e-global-color-text);
+  text-decoration-color: var(--e-global-color-text);
+}
